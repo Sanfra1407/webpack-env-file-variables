@@ -6,7 +6,7 @@
   "main": "index.js",
   "scripts": {
     "build": "webpack --mode=production",
-    "serve": "./node_modules/.bin/http-server"
+    "serve": "./node_modules/.bin/http-server --port 3000"
   },
   "author": "Sanfra1407",
   "license": "MIT",
